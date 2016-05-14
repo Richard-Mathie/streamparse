@@ -1,6 +1,6 @@
 |logo|
 
-|Build Status|
+|Build Status| |Coverage|
 
 Streamparse lets you run Python code against real-time streams of data via
 Apache Storm.  With streamparse you can create Storm bolts and spouts in
@@ -63,3 +63,4 @@ See the `Roadmap <https://github.com/Parsely/streamparse/wiki/Roadmap>`__.
 .. |Build Status| image:: https://travis-ci.org/Parsely/streamparse.svg?branch=master
    :target: https://travis-ci.org/Parsely/streamparse
 .. |Demo| image:: https://raw.githubusercontent.com/Parsely/streamparse/master/doc/source/images/quickstart.gif
+.. |Coverage| image:: https://coveralls.io/repos/github/Parsely/streamparse/badge.svg?branch=master :target: https://coveralls.io/github/Parsely/streamparse?branch=master
