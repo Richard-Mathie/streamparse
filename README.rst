@@ -62,5 +62,7 @@ See the `Roadmap <https://github.com/Parsely/streamparse/wiki/Roadmap>`__.
 .. |logo| image:: https://raw.githubusercontent.com/Parsely/streamparse/master/doc/source/images/streamparse-logo.png
 .. |Build Status| image:: https://travis-ci.org/Parsely/streamparse.svg?branch=master
    :target: https://travis-ci.org/Parsely/streamparse
+.. |Coverage| image:: https://coveralls.io/repos/github/Parsely/streamparse/badge.svg?branch=master
+   :target: http://coveralls.io/github/Parsely/streamparse?branch=master
 .. |Demo| image:: https://raw.githubusercontent.com/Parsely/streamparse/master/doc/source/images/quickstart.gif
-.. |Coverage| image:: https://coveralls.io/repos/github/Parsely/streamparse/badge.svg?branch=master :target: https://coveralls.io/github/Parsely/streamparse?branch=master
+
